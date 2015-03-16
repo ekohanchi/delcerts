@@ -1,0 +1,46 @@
+.container {
+	width: 100%;
+	font-family: Georgia,"Times New Roman",Times,serif;
+}
+.innercontainer {
+	margin-left: auto;
+	margin-right: auto;
+	width: 57%;
+	background-color: #98AFC7;
+	padding-top: 0px;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-bottom: 5px;
+}
+.topbar {
+	margin-left: auto;
+	margin-right: auto;
+	width: 88%;
+	background-color: #5B8DC3;
+	height: 8px;
+}
+.forref {
+	color: #FFF;
+	font-size: 14px;
+	text-align: right;
+	padding-top: 5px;
+}
+.reportcheck {
+	font-size: 30px;
+}
+.reportnum {
+	font-size: 14px;
+}
+
+.fieldcol {
+	width: 220px;
+}
+.cattitle {
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.rowstyle {
+	border-bottom: 1px;
+	border-style: dotted;
+}

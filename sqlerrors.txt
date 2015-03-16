@@ -1,0 +1,56 @@
+A MySQL error occured for certificate id: 1343333444
+Query: INSERT INTO certificates VALUES (0,'June 12, 2010','1343333444','Round Brilliant','23','234','343','10093','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 1343333444
+Query: INSERT INTO certificates VALUES (0,'June 12, 2010','1343333444','Round Brilliant','23','234','343','10093','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (0,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (3,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (3,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (3,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (3,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES (3,'June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************
+A MySQL error occured for certificate id: 13432343
+Query: INSERT INTO certificates VALUES ('3','June 12, 2010','13432343','Round Brilliant','2342','32432','34234','23423','D','FLAWLESS','Excellent','60.0','56.0','THIN TO MEDIUM, FACETED','Excellent','Excellent','None','LASER INSCRIPTION $(REPORTID) IS INSCRIBED ON GIRDLE') 
+Error: (1136) Column count doesn't match value count at row 1
+***********************

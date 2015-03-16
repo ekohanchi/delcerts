@@ -1,0 +1,26 @@
+Hours
+6.5.10 - 2pm (3hrs so far)
+
+
+For Business Card
+Web Design
+Web Development
+Web Programming
+
+pages to do:
+* viewCert.php
+* manageCerts.php - done
+
+
+credentials
+-----------
+	DB
+Database name	db332111747
+Host name	db2479.perfora.net
+User name	dbo332111747
+Database pw: dbp4dcerts
+Description	joomla15db
+Version 	MySQL5.0
+
+	Joomla
+pw: delcertsr4t*s

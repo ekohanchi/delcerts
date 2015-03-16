@@ -1,0 +1,181 @@
+/************
+* View Cert
+***************/
+
+.container {
+	/* ORIGINAL */
+	/*width: 620px;
+	height: 797px;
+	background-image: url("../images/DEL_Cert.png");*/
+	/*width: 2550px;
+	height: 3300px;
+	background-image: url("../images/DEL_Cert3.jpg");*/
+	width: 639px;
+	height: 815px;
+	background-image: url("../images/DEL_Cert.png");	
+	background-repeat: no-repeat;
+	background-position: left top;
+	padding-top: 235px;
+	padding-left: 81px;
+}
+.innercontainer {
+	/*background-color: #CCC;*/
+	width: 230px;
+	height: 385px;
+	text-align: right;
+}
+body {
+	/*font-family: Georgia, "Times New Roman", Times, serif;*/
+	font-size: 12px;
+	text-align: right;
+}
+
+
+/*TESTING*/
+span.page
+{
+	float: right;
+	padding-left: 2.5ex;
+	background-color: #fff;
+/*	margin-top: 238px;
+	margin-left: 103px;
+	background-color: #FFFFFF;
+	/*width: 193px;*/
+	/*height: 12px;
+	position: absolute; */
+}
+
+.dots
+{
+/*	float: left;
+	clear: both;
+	width: 19em;
+	background: url("../images/dotleaders.png") left 85% repeat-x;
+	margin-top: 238px;
+	margin-left: 103px;
+	background-color: #FFFFFF;
+	/*width: 193px;*/
+	/*height: 12px;
+	position: absolute; */
+	/*position: absolute;
+	margin-top: 238px;
+	margin-left: 103px;*/
+	border-bottom-style: dotted;
+	border-bottom-width: 2px;
+}
+
+.datefield {
+	margin-top: 3px;
+	/*background-color: #FFFFFF;*/
+	border-bottom-style: dotted;
+	/*border-bottom-width: 2px;*/
+}
+.certidfield {
+	position: absolute;
+	margin-top: 260px;
+	margin-left: 143px;
+	/*background-color: #FFFFFF;*/
+	width: 152px;
+}
+.shapefield {
+	position: absolute;
+	margin-top: 282px;
+	margin-left: 178px;
+	width: 117px;
+	/*background-color: #FFF;*/
+}
+/* margin-top difference is 22 */
+.fullmeasurefield {
+	position: absolute;
+	margin-top: 304px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.weightfield {
+	position: absolute;
+	margin-top: 384px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.colorfield {
+	position: absolute;
+	margin-top: 411px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.clarityfield {
+	position: absolute;
+	margin-top: 435px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.cutfield {
+	position: absolute;
+	margin-top: 460px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.depthfield {
+	position: absolute;
+	margin-top: 510px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.tablefield {
+	position: absolute;
+	margin-top: 534px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.gridlefield {
+	position: absolute;
+	margin-top: 562px;
+	margin-left: 141px;
+	width: 160px;
+	/*background-color: #FFF;*/
+}
+.polishfield {
+	position: absolute;
+	margin-top: 587px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.symmetry {
+	position: absolute;
+	margin-top: 611px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.fluorescencefield {
+	position: absolute;
+	margin-top: 638px;
+	margin-left: 141px;
+	width: 154px;
+	/*background-color: #FFF;*/
+}
+.commentsfield {
+	position: absolute;
+	/*margin-top: 568px;*/
+	margin-top: 664px;
+	margin-left: 141px;
+	width: 154px;
+	text-align: left;
+	/*background-color: #FFF;*/
+}
+
+
+
+
+
+
+
+
